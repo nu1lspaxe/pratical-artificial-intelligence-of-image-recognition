@@ -1,2 +1,1 @@
 # Practical_Artificial_Intelligence_of_Image_Recognition
- 人工智慧影像辨識實務：課堂實作與練習
