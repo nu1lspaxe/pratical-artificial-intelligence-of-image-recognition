@@ -1,4 +1,4 @@
-#作業1: python, np, plt 繪圖應用
+#python, np, plt 繪圖應用
 #載入相關套件模組
 import numpy as np
 import matplotlib.pyplot as plt
@@ -153,8 +153,8 @@ for i in range(5):
     plt.yticks([])
     #暫停1秒
     plt.pause(1)
-#將im4存入'HW1.jpg'檔
-plt.imsave('HW1.jpg', im4)
+#將im4存入'pic.jpg'檔
+plt.imsave('pic.jpg', im4)
 #關閉3號視窗(用 close)
 plt.close(3)
 

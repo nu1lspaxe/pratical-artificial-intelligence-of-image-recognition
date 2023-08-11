@@ -1,4 +1,4 @@
-'''作業二: OpenCV基本應用 提示'''
+'''OpenCV基本應用'''
 #載入相關套件模組
 import cv2
 import numpy as np

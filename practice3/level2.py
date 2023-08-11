@@ -1,4 +1,4 @@
-'''作業三：OpenCV瞌睡偵測 Level 2 提示'''
+'''OpenCV瞌睡偵測'''
 import cv2 # 匯入 openCV 套件
 import numpy as np # 匯入 Numpy 套件
 
