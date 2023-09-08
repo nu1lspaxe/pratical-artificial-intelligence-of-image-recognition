@@ -1,1 +1,0 @@
-# Practical_Artificial_Intelligence_of_Image_Recognition
